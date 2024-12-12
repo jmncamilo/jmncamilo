@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Camilo 👋
+### Software Developer, Java lover and ROM hacking enthusiast a.k.a. Mystic
+My tech journey started when my dad bought me my first computer in 2007. I was hooked right away. The idea of turning thoughts into reality through code was mind-blowing.
+
+My first console was the PlayStation 1. I remember getting completely hooked on *Resident Evil 3: Nemesis* and *Yu-Gi-Oh! Forbidden Memories*. These games were my life! I always wanted to modify them as a kid, changing certain default config that I didn't like. I felt they could be even better. So, I grew up, did my own research and I learned how to ROM hack.
+
+Due to life's twists and turns, I had to focus on other things, but luckily I was able to get back on the path I was always destined for. I'm studying Software Development and I'll be sharing my progress here.
+
+Thanks for stopping by!
 
 <!--
 **jmncamilo/jmncamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
