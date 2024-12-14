@@ -21,4 +21,5 @@ Thanks for stopping by!
 ## Be my support:
 
 [![PayPal](https://img.shields.io/badge/any-Camilo%20Jim%C3%A9nez-you?style=for-the-badge&logo=paypal&logoColor=0f0f0f&logoSize=auto&label=PayPal&labelColor=f0f0f0&color=%23003087)](https://www.paypal.com/donate/?hosted_button_id=8DZU725MLQKRL)
-[![BuyMeACoffee](https://img.shields.io/badge/any-Support%20My%20Work-you?style=for-the-badge&logo=buymeacoffee&logoColor=0f0f0f&logoSize=auto&label=Buy%20Me%20A%20Coffee&labelColor=f0f0f0&color=%23FFDD00)](https://buymeacoffee.com/jmncamilo)
+[![BuyMeACoffee](https://img.shields.io/badge/Support%20My%20Work-Support%20My%20Work?style=for-the-badge&logo=buymeacoffee&logoColor=0f0f0f&logoSize=50&label=Buy%20Me%20a%20Coffee&labelColor=f0f0f0&color=%23FFDD00
+)](https://buymeacoffee.com/jmncamilo)
