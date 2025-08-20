@@ -1,5 +1,5 @@
 # Hi, I'm Camilo 👋
-### Software Developer, Java lover and ROM hacking enthusiast a.k.a. Mystic
+### Software Developer and ROM hacking enthusiast a.k.a. Mystic
 
 ![https://github.com/jmncamilo](./mystic_banner.png)
 
