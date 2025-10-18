@@ -5,7 +5,7 @@
 
 My whole tech journey kicked off back in 2007 when my dad got me my first computer, and honestly, I was hooked instantly. The whole concept of taking a random thought and turning it into something real using code? Still blows my mind.
 
-My initial inspiration wasn't about using the tech, but about messing with it. I grew up obsessed with games like Resident Evil 3: Nemesis and Yu-Gi-Oh! Forbidden Memories on my old PlayStation 1. I wasn't just playing, though; I had this massive childhood urge to actually modify things, to dive into the default settings and just make them better. That drive to figure out how things worked so I could change them—the same spirit behind reverse engineering and debugging—is exactly what led me down the rabbit hole of ROM hacking.
+My initial inspiration wasn't about using the tech, but about messing with it. I grew up obsessed with games like Resident Evil 3: Nemesis and Yu-Gi-Oh! Forbidden Memories on my old PlayStation 1. I wasn't just playing, though; I had this massive childhood urge to actually modify things, to dive into the default settings and just make them better. That drive to figure out how things worked so I could change them, fueled by the same spirit behind reverse engineering and debugging, is where the whole ROM hacking thing really started for me.
 
 That underlying passion for breaking down and rebuilding systems never really went away. Now, I'm fully focused on becoming a Software Developer. This space is basically going to be my log for all the projects and progress I make along the way.
 
