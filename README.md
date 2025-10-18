@@ -3,13 +3,13 @@
 
 ![https://github.com/jmncamilo](./mystic_banner.png)
 
-My tech journey started when my dad bought me my first computer in 2007. I was hooked right away. The idea of turning thoughts into reality through code was mind-blowing.
+My whole tech journey kicked off back in 2007 when my dad got me my first computer, and honestly, I was hooked instantly. The whole concept of taking a random thought and turning it into something real using code? Still blows my mind.
 
-My first console was the **PlayStation 1**. I remember getting completely hooked on *Resident Evil 3: Nemesis* and *Yu-Gi-Oh! Forbidden Memories*. These games were my life! I always wanted to modify them as a kid, changing certain default config that I didn't like. I felt they could be even better. So, I grew up, did my own research and I learned how to ROM hack.
+My initial inspiration wasn't about using the tech, but about messing with it. I grew up obsessed with games like Resident Evil 3: Nemesis and Yu-Gi-Oh! Forbidden Memories on my old PlayStation 1. I wasn't just playing, though; I had this massive childhood urge to actually modify things, to dive into the default settings and just make them better. That drive to figure out how things worked so I could change them—the same spirit behind reverse engineering and debugging—is exactly what led me down the rabbit hole of ROM hacking.
 
-Due to life's twists and turns, I had to focus on other things, but luckily I was able to get back on the path I was always destined for. I'm studying Software Development and I'll be sharing my progress here.
+That underlying passion for breaking down and rebuilding systems never really went away. Now, I'm fully focused on becoming a Software Developer. This space is basically going to be my log for all the projects and progress I make along the way.
 
-Thanks for stopping by!
+Thanks for dropping by and checking out the stuff I'm working on!
 
 ## Get in touch:
 
