@@ -20,6 +20,12 @@ Thanks for stopping by!
 [![Gmail](https://img.shields.io/badge/any-jmncamilo%40gmail.com-you?style=for-the-badge&logo=gmail&logoColor=0f0f0f&logoSize=auto&label=Gmail&labelColor=f0f0f0&color=%23EA4335
 )](mailto:jmncamilo@gmail.com)
 
+## ✨ Be my support:
+
+[![PayPal](https://img.shields.io/badge/any-Camilo%20Jim%C3%A9nez-you?style=for-the-badge&logo=paypal&logoColor=0f0f0f&logoSize=auto&label=PayPal&labelColor=f0f0f0&color=%23003087)](https://www.paypal.com/donate/?hosted_button_id=8DZU725MLQKRL)
+[![BuyMeACoffee](https://img.shields.io/badge/Support%20My%20Work-Support%20My%20Work?style=for-the-badge&logo=buymeacoffee&logoColor=0f0f0f&logoSize=50&label=Buy%20Me%20a%20Coffee&labelColor=f0f0f0&color=%23FFDD00
+)](https://buymeacoffee.com/jmncamilo)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jmncamilo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jmncamilo&theme=tokyonight&hide_border=false)<br/>
@@ -27,9 +33,3 @@ Thanks for stopping by!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jmncamilo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## ✨ Be my support:
-
-[![PayPal](https://img.shields.io/badge/any-Camilo%20Jim%C3%A9nez-you?style=for-the-badge&logo=paypal&logoColor=0f0f0f&logoSize=auto&label=PayPal&labelColor=f0f0f0&color=%23003087)](https://www.paypal.com/donate/?hosted_button_id=8DZU725MLQKRL)
-[![BuyMeACoffee](https://img.shields.io/badge/Support%20My%20Work-Support%20My%20Work?style=for-the-badge&logo=buymeacoffee&logoColor=0f0f0f&logoSize=50&label=Buy%20Me%20a%20Coffee&labelColor=f0f0f0&color=%23FFDD00
-)](https://buymeacoffee.com/jmncamilo)
