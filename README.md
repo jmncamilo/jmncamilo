@@ -30,6 +30,3 @@ Thanks for stopping by!
 ![](https://github-readme-stats.vercel.app/api?username=jmncamilo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jmncamilo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmncamilo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jmncamilo&icon=0&color=0)](https://visitcount.itsvg.in)
