@@ -30,5 +30,4 @@ Thanks for stopping by!
 
 ## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jmncamilo&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jmncamilo&theme=github_dark)
