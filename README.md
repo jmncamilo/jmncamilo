@@ -1,6 +1,6 @@
 # Hi, I'm Camilo 🚀
 
-Software Developer focused on building robust full-stack web applications, scalable architectures, and efficient automated systems. Passionate about system optimization, clean code, and transforming complex requirements into high-performance digital products. This repository serves as a centralized logbook for my active projects, technical explorations, and software engineering implementations.
+Software Developer focused on building robust full-stack web applications, scalable architectures, and efficient automated systems. Driven by system optimization, clean code, and a commitment to transforming complex requirements into high-performance digital products. This repository serves as a centralized logbook for my active projects, technical explorations, and software engineering implementations.
 
 Thanks for stopping by!
 
