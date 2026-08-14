@@ -1,13 +1,9 @@
 # Hi, I'm Camilo 🚀
-### Software Developer and ROM hacking enthusiast a.k.a. Mystic
-
-![https://github.com/jmncamilo](./mystic_banner.png)
+### Software Developer | Backend Specialist (Java & Spring Boot)
 
 ## 💫 About me
 
-My journey into tech began with a PlayStation 1 and a question that wouldn't let me go: "How does this actually work?" That innate curiosity took a professional turn in 2007 when I got my first computer; I immediately started investigating how systems were built and dove into the world of ROM hacking. I wasn't just interested in the software itself, but in the challenge of deconstructing complex logic, reverse engineering, and finding ways to tweak "unchangeable" settings to make things better.
-
-Today, I’ve channeled that same restless drive into Software Development. I’ve traded hex editors for modern frameworks, but the motivation to turn a "what if?" into a functional reality remains the same. I believe great software is built by those who never lost that need to dismantle, optimize, and rebuild from the ground up. This profile serves as my digital logbook for that ongoing journey—documenting the projects I’m building and the new systems I’m figuring out along the way.
+Software Developer focused on building robust full-stack web applications, scalable architectures, and efficient automated systems. Passionate about system optimization, clean code, and transforming complex requirements into high-performance digital products. This repository serves as a centralized logbook for my active projects, technical explorations, and software engineering implementations.
 
 Thanks for stopping by!
 
