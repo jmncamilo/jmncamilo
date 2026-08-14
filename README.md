@@ -1,5 +1,5 @@
 # Hi, I'm Camilo 🚀
-### Software Developer | Backend Specialist (Java & Spring Boot)
+### Software Developer
 
 ## 💫 About me
 
